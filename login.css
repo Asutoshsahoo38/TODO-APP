@@ -1,0 +1,39 @@
+body{
+    background-color: aquamarine;
+}
+.Login{
+    font-size: 30px;
+    text-align: center;
+    border:solid 3px;
+    border-radius: 10%;
+    margin-top:10%;
+    margin-left:32%;
+    width: 25ex;
+    height: 15em;
+    background-color: aqua;
+
+}
+.UserID{
+    margin-top: 8%;
+}
+.Passward{
+    margin-top: 7%;
+}
+.LoginButton{
+   float:left;
+   margin-left: 20%;
+   margin-top: 10%;
+    
+}
+.SignUpButton{
+    float: right;
+    margin-right:30%;
+    margin-top: 10%;
+
+}
+
+
+.icons{
+    margin: 50%;
+    margin-top: 3rem;
+}
